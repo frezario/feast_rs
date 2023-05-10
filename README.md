@@ -1,4 +1,4 @@
-# fFeast!
+# Feast!
 
 A simple DBMS for festivals. Written in Rust, it allows for creating, storing and managing a festival information.
 
